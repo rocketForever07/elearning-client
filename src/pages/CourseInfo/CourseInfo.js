@@ -108,7 +108,7 @@ const CourseInfo = () => {
     const data = JSON.parse(localStorage.getItem("user"));
 
     window.open(
-      `http://127.0.0.1:5500/room/lobby.html?name=${data.userName}&room=${id}`,
+      `https://liveroom.onrender.com/lobby?name=${data.userName}&room=${id}`,
       "_blank"
     );
   };
