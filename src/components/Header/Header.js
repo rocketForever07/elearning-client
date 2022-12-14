@@ -24,7 +24,7 @@ const Header = () => {
       <div className="left__header">
         <Link to="/">
           <img
-            src="https://thumbs.dreamstime.com/b/e-learning-icon-trendy-logo-concept-white-backgro-background-education-collection-suitable-use-web-apps-mobile-131175980.jpg"
+            src="https://i.ibb.co/XzJCjK0/T2K.png"
             alt=""
           />
           <h4>Elearning</h4>
