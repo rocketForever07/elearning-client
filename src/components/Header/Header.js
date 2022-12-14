@@ -27,7 +27,7 @@ const Header = () => {
             src="https://i.ibb.co/XzJCjK0/T2K.png"
             alt=""
           />
-          <h4>Elearning</h4>
+          <h4>T2K Elearning</h4>
         </Link>
       </div>
       <div
